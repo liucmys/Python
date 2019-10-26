@@ -46,6 +46,13 @@ def quick_sort(collection):
 
 
 if __name__ == "__main__":
-    user_input = input("Enter numbers separated by a comma:\n").strip()
-    unsorted = [int(item) for item in user_input.split(",")]
-    print(quick_sort(unsorted))
+
+    # user_input = input("Enter numbers separated by a comma:\n").strip()
+    # unsorted = [int(item) for item in user_input.split(",")]
+    # print(quick_sort(unsorted))
+
+    # nums = [5, 4, 2,1,0]
+    # res = quick_sort(nums)
+
+    # print(res)
+    print("hello git")
